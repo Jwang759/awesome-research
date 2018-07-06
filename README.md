@@ -127,7 +127,7 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 * [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
 * [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
 * [Todoist](https://todoist.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
-* [Taskade](https://taskade.com/) (`Cloud`,`Chrome OS`,`Firefox`,`Mobile coming soon`,): Taskade is a collaborative task list and outliner for team projects.
+* [Taskade](https://taskade.com/) (`Cloud`,`Mac`,`Win`,`Chrome OS`,`Firefox`,`Android`,`iOS`): Taskade is a collaborative task list and outliner for team projects.
 
 
 
@@ -245,14 +245,14 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 Host your articles, notes and more.
 
-* [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, pdf, and epub, all done online.
+* [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, PDF, and epub, all done online.
 * [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
-* [GitHub](http://github.com): Just put markdown, reStructuredText, pdf or ipython notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in ipython notebook can be rendered on GitHub.**
+* [GitHub](http://github.com): Just put markdown, reStructuredText, PDF or IPython/Jupyter notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in IPython notebook can be rendered on GitHub.**
 * [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
 * [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
-* [Heroku](https://www.heroku.com/): The one that needs no explaination.
+* [Heroku](https://www.heroku.com/): The one that needs no explanation.
 
-Other services such as [Digital Ociean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
+Other services such as [Digital Ocean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
 
 
 
@@ -282,7 +282,7 @@ These programs are running on the server and can be [hosted using these services
 
 ### Static Site Generator
 
-[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonethless here is a list of the most popular ones.
+[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonetheless here is a list of the most popular ones.
 
 * [Jekyll](http://jekyllrb.com/) (Written in `Ruby`)(`Markdown`): Jekyll is the most widely used one. The best part about Jekyll is that one just deploy to GitHub Pages by pushing the source to GitHub.
 * [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
@@ -332,7 +332,11 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 
 Notebook softwares that you can write in Markdown:
 
-1. [boostnote](https://boostnote.io/) (`Win`,`Mac`,`Linux`): Math + Markdown, with snippet note support.
+* [boostnote](https://boostnote.io/) (`Win`,`Mac`,`Linux`): Math + Markdown, with snippet note support.
+* [Quiver](http://happenapps.com/) (`Mac`,`iOS`): Programmer's notebook, math + Markdown, code snippet.
+* [Findings](http://findingsapp.com/) (`Mac`): Notebook for experimentalists, organized research materials and notes.
+* [Notion](https://www.notion.so/) (`Win`,`Mac`,`iOS`,`Android`): Notetaking with kanban, math, calendar, table, etc.
+* [Agenda](https://agenda.com/) (`Mac`,`iOS`): Notes and GTD.
 
 
 #### LaTeX
@@ -358,7 +362,7 @@ Notebook softwares that you can write in Markdown:
 
 
 
-### iPython Notebook
+### IPython Notebook
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
@@ -463,6 +467,7 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js)
 * [Slides](https://github.com/briancavalier/slides)
+* [remark](https://remarkjs.com)
 
 
 ### IPython Notebook
@@ -522,6 +527,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
   * [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 * [Matlab](http://www.mathworks.com/products/matlab/)
+* [Maple](https://www.maplesoft.com/index.aspx?L=E)
 * [RStudio](https://www.rstudio.com/) (`R`)
 
 
@@ -532,7 +538,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
   * [SnakeViz](https://jiffyclub.github.io/snakeviz/): A nice tool for python debugging and performance improvement.
 * [Julia](http://julialang.org/)
 * [R](http://www.r-project.org/)
-
+* [Rust](https://www.rust-lang.org/en-US/)
 
 ### Coding is Fun
 
@@ -546,7 +552,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 This might be not so straightforward but remember this. Reuse your own work doesn't protect you from plagiarism! Read it on
 
-* [wikipedia:Plagiarism#The_concept_of_self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#The_concept_of_self-plagiarism).
+* [wikipedia:Plagiarism#Self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
 
 ### Investigate Papers
 
@@ -554,10 +560,19 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Paperscape](http://paperscape.org/): Finding interesting papers.
 * [Peerus](https://peer.us/): Monitor specific topics or journal for new and relevant papers.
 * [SciRate](https://scirate.com/): An front-end for arXiv with rates from readers.
+* [ArXiv Sanity Preserver](http://arxiv-sanity.com/): Accelerate research through arXiv specific for many things machine learning by Andrej Karpathy.
+* [Iris.ai](https://the.iris.ai/): Explore scientific papers and how they connect to a paper of your choice.
+* [Publish or Perish](https://harzing.com/resources/publish-or-perish): Retrieves and analyzes academic citations designed to empower individual academics to present their case for research impact to its best advantage.
+* [PubChase](http://pubchase.com/): Life sciences and medical literature recommendation engine.
 
 ### Get Yourself A Citable Code for Anything
 
 * [Zenodo](https://zenodo.org/): Make anything from GitHub citable by getting a DOI code here.
+
+### Get Yourself A Unique and Persistent Digital Identifier
+
+* [orcid](http://orcid.org/): Use your ORCID identifier in any research workflow to ensure you get credit for your work.
+
 
 ### Add Citations to Your Code
 
@@ -571,6 +586,10 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 * [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 * [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
+* [Zotero Style Repository](https://www.zotero.org/styles): Find any style you need.
+* [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
+* [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
+* [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 
 ### Tips for Researchers
 
@@ -628,6 +647,7 @@ StackExchange.com is a good place for professional discussions. Here is an examp
 * [Physics.StackExchange](http://physics.stackexchange.com/)
 * [Biostars](https://www.biostars.org/): StackOverflow style Q&A site for bioinformatics.
 * [NeuroStars](https://neurostars.org/): StackOverflow style Q&A site for neuroinformatics.
+* [SEQanswers](http://seqanswers.com/): Forum for next generation sequencing community.
 
 
 ## Open Source
@@ -735,9 +755,12 @@ Professional graphs should be made using professional tools.
 
 ### Free Multimedia
 
-
 * [CC Search](https://ccsearch.creativecommons.org/): Search engine for images under CC License.
 * [Unsplash](https://unsplash.com/): Free high resolution images.
+* [Academicons](https://jpswalsh.github.io/academicons/)
+* [Phylopic](http://phylopic.org/)
+
+
 
 
 ### Interesting Journals
